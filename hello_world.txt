@@ -1,0 +1,4 @@
+print("Hello, World") would work
+if this was written using python
+but it is not
+so it won't
